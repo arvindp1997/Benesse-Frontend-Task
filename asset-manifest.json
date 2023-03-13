@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Benesse-Frontend-Task/static/css/main.e7bed632.css",
+    "main.js": "/Benesse-Frontend-Task/static/js/main.687d6db4.js",
+    "static/js/787.95f0df98.chunk.js": "/Benesse-Frontend-Task/static/js/787.95f0df98.chunk.js",
+    "static/media/login.svg": "/Benesse-Frontend-Task/static/media/login.1e7f49ac1dd9d7fee7cec4b96336ef72.svg",
+    "index.html": "/Benesse-Frontend-Task/index.html",
+    "main.e7bed632.css.map": "/Benesse-Frontend-Task/static/css/main.e7bed632.css.map",
+    "main.687d6db4.js.map": "/Benesse-Frontend-Task/static/js/main.687d6db4.js.map",
+    "787.95f0df98.chunk.js.map": "/Benesse-Frontend-Task/static/js/787.95f0df98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bed632.css",
+    "static/js/main.687d6db4.js"
+  ]
+}
